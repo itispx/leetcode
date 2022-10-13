@@ -9,3 +9,5 @@ function twoSum(nums: number[], target: number): number[] {
 
   return [];
 }
+
+// O(n²)
